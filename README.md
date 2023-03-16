@@ -1,7 +1,7 @@
 This repository is a log for my NTU Final Year Projectw where I studied about Incremental Training for Watermarked Neural Networks.
 
 
-3.1 Experimental Setup
+
 3.1.1 Hardware Specifications
 • CPU: 12th Gen Intel(R) Core(TM) i7-12700
 • RAM: 32GB
@@ -13,4 +13,3 @@ This repository is a log for my NTU Final Year Projectw where I studied about In
 • tensorflow: 2.10.0
 • torchvision: 0.14.0
 • Pillow: 9.3.0
-11
