@@ -1,4 +1,4 @@
-This repository is a log for my NTU Final Year Projectw where I studied about Incremental Training for Watermarked Neural Networks.
+This repository is a log for my NTU Final Year Project where I studied about Incremental Training for Watermarked Neural Networks.
 
 For a detailed explanation of my study, please refer to the attached report.
 
