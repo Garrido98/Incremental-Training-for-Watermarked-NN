@@ -1,4 +1,4 @@
-1.1 Background
+Background
 The demand for high-performance neural networks opened the floodgates to a new market of Ma-
 chine Learning as a Service (MLaaS) [4] . Companies of this trending market would provide services
 to train and tune models according to the clients’ needs at a negligible cost, as compared to the
@@ -16,7 +16,7 @@ IPR. Some notable studies include ROWBACK, a watermarking scheme which robustnes
 on adversarial samples in the Trigger Set and the uniform distribution of backdoors throughout the
 layers in the neural networks [7].
 
-1.2 Motivation
+Motivation
 The robustness of watermarking schemes such as ROWBACK [7], Randomized Smoothing [8] and
 BlackMarks [9] have been proven against notable watermark removal attacks like Re-markable
 [10], but much uncertainty exists on how they are affected by Incremental Training. Incremental
@@ -26,7 +26,7 @@ through the Trigger Set. The event of having watermarks being unintentionally re
 Incremental Training would greatly undermine the scheme’s ability to protect rightful ownership.
 Hence, it is of utmost importance to verify their susceptibility to Incremental Training.
 
-1.3 Objective and scope
+Objective and scope
 This study aims to investigate on various existing watermarking scheme’s ability to maintain veri-
 fiable, retaining IPR and robustness against adversaries, even after Incremental Training. We will
 1
