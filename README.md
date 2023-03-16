@@ -1,5 +1,7 @@
 This repository is a log for my NTU Final Year Projectw where I studied about Incremental Training for Watermarked Neural Networks.
 
+For a detailed explanation of my study, please refer to the attached report.
+
 ## Background
 The demand for high-performance neural networks opened the floodgates to a new market of Ma-
 chine Learning as a Service (MLaaS) [4] . Companies of this trending market would provide services
